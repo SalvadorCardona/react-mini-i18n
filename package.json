@@ -1,6 +1,6 @@
 {
   "name": "@animalink/i18n",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Traduction React minimale : un dictionnaire clé → texte, une fonction translate, un composant Trans et un provider. Sans dépendance ni format de fichier imposé.",
   "keywords": [
     "react",
